@@ -5,7 +5,7 @@
   <a href="mailto:vasishthbhatt333@gmail.com">
     <img src="https://img.shields.io/badge/Email-vasishthbhatt333%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vasishth-bhatt-87b81526b/">
+  <a href="https://www.linkedin.com/in/vasishth-bhatt-87b81526b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/duckquack123">
